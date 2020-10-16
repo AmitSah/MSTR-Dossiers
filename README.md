@@ -1,2 +1,2 @@
 # MSTR-Dossiers
-This Repository will store all the dossiers which is for demo purpose
+This Repository stores all the dossiers which is for demo purpose
